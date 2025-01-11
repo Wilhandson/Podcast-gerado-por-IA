@@ -41,6 +41,16 @@ Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através
 - [VidNoz](https://pt.vidnoz.com/)
 - [Pixlr Xpress Editor](https://pixlr.com/br/)
 
+## 🧠 Prompts
+
+
+Copilot：
+
+|   Ação   | prompt                                                                                                                                                                                                                                                                         |
+| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|  título  | Você é um roteirista de um podcast, e vamos criar um podcast sobre comentando noticias polêmicas sobre tecnologia que acontecem no dia a dia, me dê 3 sugestões criativos para o titulo do podcast, e nome deve ter algo parecido como uma noticia curta como o globo news ou algum programa jornalistico americano focado em noticias curtas. {REGRAS} - O nome deve ser enxuto, um nome e um subtítulo - O nome pode ter algum trocadilho com jornal e tecnologia ou nerd                                                        |
+| conteúdo | Você é um roteirista de podcast, e vamos criar um roteiro de um podcast de noticias polemicas sobre tecnologia, focado em tecnologia cujo o nome é "TecNews - Seu Jornal Tec Diário" para o publico nerd que está iniciando a carreira de programação, fale sobre o assunto "IAs podem substituir a carreira de programdores" o formato do roteiro deve ser [INTRODUÇÃO] [OPNIÃO] [DICA] [FINALIZAÇÃO] {REGRAS} - no bloco [INTRODUÇÃO] substitua por uma introdução iguais as introduções dos vídeos do canal 'Gustavo Cunha', como se fossem escritos pelo Gustavo Cunha - no bloco [OPNIÃO] Dê uma opnião que alivie os programadores do medo de ser substituido por IA - no bloco [DICA] Dê dica do que fazer para que não corra risco para não ser substiudo por IA no seu emprego de qualquer área. - no bloco [FINALIZAÇÃO] substitua por uma despedida legal avisando até o próximo episodio sobre novas noticias sobre tecnologias com o final 'Eu sou Robert e esse foi o TecNews de hoje' - O podcast vai ser apresentado somente por uma pessoa, chamada Robert mas pode ser chamado por Roby - O podcast deve ser curto {REGRAS NEGATIVAS} - Não ultrapasse 5 minutos de duração |
+
 ## ✨ Como foi feito ?
 
 - Roteiro e título foi gerado via Copilot
