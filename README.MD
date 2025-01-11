@@ -39,7 +39,7 @@ Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através
 - [Bing Creator Image](https://www.bing.com/images/create)
 - [VEED](https://www.veed.io/pt-br)
 - [VidNoz](https://pt.vidnoz.com/)
-- [Pixlr Xpress Editor] (https://pixlr.com/br/)
+- [Pixlr Xpress Editor](https://pixlr.com/br/)
 
 ## ✨ Como foi feito ?
 
