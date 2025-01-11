@@ -56,29 +56,18 @@ Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através
       align=left 
       margin=10 
       width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
+      src="https://github.com/RobyKy/criando-ebook-com-IA/blob/main/.github/assets/GridArt_20241027_174310737%20(1).jpg"
     />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
+    <p>&nbsp&nbsp&nbspRoberto Meneses<br>
     &nbsp&nbsp&nbsp
-    <a 
-        href="https://github.com/felipeAguiarCode">
-        GitHub
-    </a>
-    &nbsp;|&nbsp;
-    <a 
-        href="www.linkedin.com/in/felipe-exe">
-        LinkedIn
-    </a>
-    &nbsp;|&nbsp;
-    <a 
-        href="https://www.instagram.com/felipeaguiar.exe/">
-        Instagram
-    </a>
-    &nbsp;|&nbsp;</p>
+    <a href="https://github.com/RobyKy">
+    GitHub</a>&nbsp;|&nbsp;
+    <a href="https://www.linkedin.com/in/roberto-da-silva-meneses-7abb0a253/">LinkedIn</a>
+&nbsp;|&nbsp;
 </p>
 <br/><br/>
 <p>
 
 ---
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+⌨ Criado por [Robyky](https://github.com/RobyKy)
