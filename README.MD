@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="./assets/cover.png"
+    src="https://github.com/RobyKy/Podcast-gerado-por-IA/blob/main/assets/RobPodcast.png"
     width="300"
 />
 </p>
