@@ -27,7 +27,8 @@
 </div>
 
 # Projeto Podcast Gerado por I.A.s (Criado por RobyKy)
-
+Acesso ao Drive com o audio, video em mp4 e um documento contendo o relatório de como foi construido o projeto;
+<a href="https://drive.google.com/drive/folders/1KkkdjHIrE9DbfVQpKyvWy47jD8an7uPo?usp=sharing" title="Link do Drive"> 📕Clique aqui para ler</a>
 
  > ℹ️ **NOTE:** Este projeto foi criado para entrega da atividade da Dio
 
